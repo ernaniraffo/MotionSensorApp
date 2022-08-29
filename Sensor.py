@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -----------------------------------------------
 # Ernani Raffo
-# SenseLED.py
+# Sensor.py
 # Program that sends a notification to an iOS app
 # from a Raspberry Pi using AWS Lambda
 # -----------------------------------------------
