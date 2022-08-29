@@ -1,5 +1,5 @@
 # MotionSensorApp
-A Motion Sensor iOS App using Python and AWS Python SDKs on a Raspberry Pi.
+A Motion Sensor iOS App that receives remote notifications from a Raspberry Pi using Python and AWS Python SDKs.
 
 ## Sensor.py
 The Python script responsible in invoking an AWS Lambda function which then sends a remote notification to an iOS App.
