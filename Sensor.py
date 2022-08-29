@@ -1,10 +1,11 @@
 #!/usr/bin/env python3
-# -----------------------------------------------
+# -------------------------------------------------
 # Ernani Raffo
 # Sensor.py
 # Program that sends a notification to an iOS app
-# from a Raspberry Pi using AWS Lambda
-# -----------------------------------------------
+# from a Raspberry Pi using AWS Lambda when motion
+# is detected.
+# -------------------------------------------------
 
 import boto3  # AWS Python SDK
 import RPi.GPIO as GPIO
